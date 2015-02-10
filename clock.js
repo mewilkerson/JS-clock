@@ -1,5 +1,3 @@
-
-
 var counter = function() {
   var date = new Date();
   var hours = date.getHours();
@@ -27,4 +25,3 @@ $(function(){
   var intID = setInterval(counter, 1000);
   
 });
-//Now have to change to color.

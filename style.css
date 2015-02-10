@@ -3,9 +3,11 @@ body {
 }
 
 span {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: Georgia, serif;
+  font-style: oblique;
   font-size: 100px;
   color: white;
-  background: black; 
+  background: black;
+  margin: 200px;
+  
 }
-
