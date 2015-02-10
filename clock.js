@@ -27,3 +27,4 @@ $(function(){
   var intID = setInterval(counter, 1000);
   
 });
+//Now have to change to color.
